@@ -1,0 +1,2 @@
+model_checkpoint_path: "model(8, 100, 3)_75_10_-100_0"
+all_model_checkpoint_paths: "model(8, 100, 3)_75_10_-100_0"
